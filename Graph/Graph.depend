@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551182376 source:e:\faculty work\third year\second term\labs\graph\graph\main.cpp
+	<iostream>
+	"Graph.h"
+
+1551182201 e:\faculty work\third year\second term\labs\graph\graph\include\graph.h
+	<vector>
+
+1551182635 source:e:\faculty work\third year\second term\labs\graph\graph\src\graph.cpp
+	<iostream>
+	"Graph.h"
+
+1551182378 source:d:\fci\current year(third)\2nd term\algorithim\labs\graph\main.cpp
+	<iostream>
+	"Graph.h"
+
+1551182202 d:\fci\current year(third)\2nd term\algorithim\labs\graph\include\graph.h
+	<vector>
+
+1551182636 source:d:\fci\current year(third)\2nd term\algorithim\labs\graph\src\graph.cpp
+	<iostream>
+	"Graph.h"
+

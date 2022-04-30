@@ -1,0 +1,12 @@
+#include <iostream>
+#include "MCM.h"
+
+using namespace std;
+
+
+MCM::MCM(){
+    numOfE = 4;
+    m = new int*[];
+
+}
+

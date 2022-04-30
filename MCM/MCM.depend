@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552996267 source:e:\faculty work\third year\second term\cs316 - algorithms\labs\mcm\main.cpp
+	<iostream>
+	"MCM.h"
+
+1552997162 e:\faculty work\third year\second term\cs316 - algorithms\labs\mcm\include\mcm.h
+
+1552997224 source:e:\faculty work\third year\second term\cs316 - algorithms\labs\mcm\src\mcm.cpp
+	<iostream>
+	"MCM.h"
+

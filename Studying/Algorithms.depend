@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1553329378 source:e:\faculty work\third year\second term\cs316 - algorithms\studying\main.cpp
+	<iostream>
+	"Heap.h"
+	"DisjointSet.h"
+	"KnapSack.h"
+
+1553291811 e:\faculty work\third year\second term\cs316 - algorithms\studying\include\heap.h
+	<vector>
+
+1553295625 e:\faculty work\third year\second term\cs316 - algorithms\studying\include\disjointset.h
+
+1553329442 e:\faculty work\third year\second term\cs316 - algorithms\studying\include\knapsack.h
+	<vector>
+	"Item.h"
+
+1553324991 e:\faculty work\third year\second term\cs316 - algorithms\studying\include\item.h
+
+1553295565 source:e:\faculty work\third year\second term\cs316 - algorithms\studying\src\disjointset.cpp
+	<iostream>
+	"DisjointSet.h"
+
+1553294118 source:e:\faculty work\third year\second term\cs316 - algorithms\studying\src\heap.cpp
+	"Heap.h"
+	<iostream>
+
+1553324986 source:e:\faculty work\third year\second term\cs316 - algorithms\studying\src\item.cpp
+	"Item.h"
+
+1553329508 source:e:\faculty work\third year\second term\cs316 - algorithms\studying\src\knapsack.cpp
+	"KnapSack.h"
+	<iostream>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1550577074 source:e:\faculty work\third year\second term\labs\heap\main.cpp
+	<iostream>
+	"Heap.h"
+
+1550577779 e:\faculty work\third year\second term\labs\heap\include\heap.h
+	<vector>
+
+1550579635 source:e:\faculty work\third year\second term\labs\heap\src\heap.cpp
+	"Heap.h"
+	"iostream"
+
+1550579636 source:d:\fci\current year(third)\2nd term\algorithim\labs\heap\src\heap.cpp
+	"Heap.h"
+	"iostream"
+
+1550577780 d:\fci\current year(third)\2nd term\algorithim\labs\heap\include\heap.h
+	<vector>
+

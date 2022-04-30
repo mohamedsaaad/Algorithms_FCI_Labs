@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1551787129 source:e:\faculty work\third year\second term\labs\main\main.cpp
+	<iostream>
+	"DisJointSet.h"
+
+1551788482 e:\faculty work\third year\second term\labs\main\include\disjointset.h
+
+1551788479 source:e:\faculty work\third year\second term\labs\main\src\disjointset.cpp
+	<iostream>
+	"DisJointSet.h"
+
+1551789047 source:e:\faculty work\third year\second term\labs\main\src\mst.cpp
+	"MST.h"
+	"DisJointSet.h"
+	<iostream>
+	"Edges.h"
+
+1551788922 e:\faculty work\third year\second term\labs\main\include\mst.h
+	"DisJointSet.h"
+	<vector>
+	"Edges.h"
+
+1551788642 source:e:\faculty work\third year\second term\labs\main\src\edges.cpp
+	"Edges.h"
+
+1551788765 e:\faculty work\third year\second term\labs\main\include\edges.h
+
+1551787130 source:d:\fci\current year(third)\2nd term\algorithim\labs\mst\main.cpp
+	<iostream>
+	"DisJointSet.h"
+
+1551788484 d:\fci\current year(third)\2nd term\algorithim\labs\mst\include\disjointset.h
+
+1551788480 source:d:\fci\current year(third)\2nd term\algorithim\labs\mst\src\disjointset.cpp
+	<iostream>
+	"DisJointSet.h"
+
+1551788644 source:d:\fci\current year(third)\2nd term\algorithim\labs\mst\src\edges.cpp
+	"Edges.h"
+
+1551788766 d:\fci\current year(third)\2nd term\algorithim\labs\mst\include\edges.h
+
+1551789048 source:d:\fci\current year(third)\2nd term\algorithim\labs\mst\src\mst.cpp
+	"MST.h"
+	"DisJointSet.h"
+	<iostream>
+	"Edges.h"
+
+1551788924 d:\fci\current year(third)\2nd term\algorithim\labs\mst\include\mst.h
+	"DisJointSet.h"
+	<vector>
+	"Edges.h"
+

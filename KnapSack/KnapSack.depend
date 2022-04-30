@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1552390423 source:e:\faculty work\third year\second term\labs\knapsack\main.cpp
+	<iostream>
+	"KnapSack.h"
+
+1552388527 source:e:\faculty work\third year\second term\labs\knapsack\src\data.cpp
+	"Data.h"
+
+1552389844 e:\faculty work\third year\second term\labs\knapsack\include\data.h
+
+1552391822 source:e:\faculty work\third year\second term\labs\knapsack\src\knapsack.cpp
+	"KnapSack.h"
+	"Data.h"
+	<iostream>
+
+1552391677 e:\faculty work\third year\second term\labs\knapsack\include\knapsack.h
+	<vector>
+	"Data.h"
+
+1552390424 source:d:\fci\current year(third)\2nd term\algorithim\labs\knapsack\main.cpp
+	<iostream>
+	"KnapSack.h"
+
+1552391678 d:\fci\current year(third)\2nd term\algorithim\labs\knapsack\include\knapsack.h
+	<vector>
+	"Data.h"
+
+1552389846 d:\fci\current year(third)\2nd term\algorithim\labs\knapsack\include\data.h
+
+1552388528 source:d:\fci\current year(third)\2nd term\algorithim\labs\knapsack\src\data.cpp
+	"Data.h"
+
+1552391824 source:d:\fci\current year(third)\2nd term\algorithim\labs\knapsack\src\knapsack.cpp
+	"KnapSack.h"
+	"Data.h"
+	<iostream>
+

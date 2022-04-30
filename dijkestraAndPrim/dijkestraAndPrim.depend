@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555415719 source:d:\fci\current year(third)\2nd term\algorithim\labs\dijkestraandprim\main.cpp
+	<iostream>
+	<set>
+	<list>
+	<algorithm>
+

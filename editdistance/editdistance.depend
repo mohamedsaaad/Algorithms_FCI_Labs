@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554208080 source:d:\fci\current year(third)\2nd term\algorithim\labs\editdistance\main.cpp
+	<iostream>
+	<string.h>
+
